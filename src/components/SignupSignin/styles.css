@@ -1,0 +1,14 @@
+.signup-wrapper{
+    width: 70%;
+    max-width: 400px;
+    height: auto;
+    /* max-height: 90vh; */
+    box-shadow: var(--shadow);
+    border-radius: 1rem;
+    padding: .5rem 1rem;
+}
+.title{
+    font-size: 1.2rem;
+    font-weight: 500;
+    text-align: center;
+}
